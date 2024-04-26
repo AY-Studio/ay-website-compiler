@@ -1,4 +1,3 @@
-```
 # Project Setup Guide
 
 This guide provides all necessary steps to set up and run the SCSS and JavaScript compilation for your project using Gulp. Follow the instructions below to get started.
