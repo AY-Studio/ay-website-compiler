@@ -60,4 +60,3 @@ gulp watch
 - `dist/js/`: Contains the concatenated JavaScript files.
 
 By following these instructions, you should be able to set up and use the project without any issues. If you encounter any problems, verify that all steps have been followed correctly, or contact support.
-```
